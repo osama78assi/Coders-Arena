@@ -1,0 +1,11 @@
+/* Nav */
+.hidden {
+  display: none !important;
+}
+.not-visible {
+  opacity: 0;
+}
+/* Videos */
+.videos .box .first-half .video-active {
+  color: var(--main-color-alt);
+}
